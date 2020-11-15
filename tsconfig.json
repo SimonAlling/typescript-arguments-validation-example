@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "removeComments": true,
+        "strict": true,
+        "target": "es6",
+    },
+    "include": [
+        "*.ts",
+    ],
+}
